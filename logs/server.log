@@ -1,0 +1,20 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 281 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.26.1:3000/
+5:36:18 PM [vite] Pre-transform error: Failed to resolve import "prop-types" from "src/components/Header.jsx". Does the file exist?
+5:36:18 PM [vite] Pre-transform error: Failed to resolve import "prop-types" from "src/components/SearchBar.jsx". Does the file exist?
+5:36:18 PM [vite] Pre-transform error: Failed to resolve import "prop-types" from "src/components/TrackList.jsx". Does the file exist?
+5:36:18 PM [vite] Pre-transform error: Failed to resolve import "prop-types" from "src/components/Player.jsx". Does the file exist?
+5:36:18 PM [vite] ✨ new dependencies optimized: lucide-react
+5:36:18 PM [vite] ✨ optimized dependencies changed. reloading
+5:36:19 PM [vite] Pre-transform error: Failed to resolve import "prop-types" from "src/components/Header.jsx". Does the file exist?
+5:36:19 PM [vite] Pre-transform error: Failed to resolve import "prop-types" from "src/components/SearchBar.jsx". Does the file exist?
+5:36:19 PM [vite] Pre-transform error: Failed to resolve import "prop-types" from "src/components/TrackList.jsx". Does the file exist?
+5:36:19 PM [vite] Pre-transform error: Failed to resolve import "prop-types" from "src/components/Player.jsx". Does the file exist?
+The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-I4MZPW7S.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
